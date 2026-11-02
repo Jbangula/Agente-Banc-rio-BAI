@@ -1,0 +1,6 @@
+{
+  "name": "Agente BAI - Gestão e Registo de Movimentos Bancários",
+  "description": "Sistema profissional de registo de movimentos, relatórios diários, reconciliação de valores e gestão de operadores para Agentes Bancários BAI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
